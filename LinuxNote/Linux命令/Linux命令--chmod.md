@@ -35,4 +35,4 @@
      - group = rwx = 4+2+1 = 7
      - others= --- = 0+0+0 = 0
 
-![chgrp](image\chmod.png)
+![chgrp](image/chmod.png)

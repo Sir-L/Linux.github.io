@@ -20,4 +20,4 @@
 |    ..    | 目前所在目录的上一层目录 |
 |    -     |   最近两次目录之间切换   |
 
-![chgrp](image\cd.png)
+![chgrp](image/cd.png)

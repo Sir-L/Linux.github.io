@@ -24,4 +24,4 @@
 
 ###### 注：当所属用户不填写时，和chgrp一样
 
-![chgrp](image\chown.png)
+![chgrp](image/chown.png)

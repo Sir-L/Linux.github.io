@@ -22,4 +22,4 @@
 |        --help         |                      在线帮助                      |
 |       --version       |                    显示版本信息                    |
 
-![chgrp](image\chgrp.png)
+![chgrp](image/chgrp.png)

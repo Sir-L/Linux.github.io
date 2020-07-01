@@ -25,4 +25,4 @@
 |   -u   |          在复制前打印文件名           |
 |   -v   | 除了LFD和TAB之外所有控制符用^和M-显示 |
 
-![chgrp](image\cat.png)
+![chgrp](image/cat.png)

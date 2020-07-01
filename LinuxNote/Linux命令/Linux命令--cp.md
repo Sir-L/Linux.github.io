@@ -24,4 +24,4 @@
 |   -u   |                     如果已存在，则不复制                     |
 |   -v   |                      在复制前打印文件名                      |
 
-![chgrp](image\cp.png)
+![chgrp](image/cp.png)
