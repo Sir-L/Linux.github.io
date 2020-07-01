@@ -21,4 +21,4 @@
 |     --debug     |                         打印错误信息                         |
 |   -q(--quiet)   |                      打印警告和错误信息                      |
 
-![Ubuntu 64 bit-2020-02-10-10-06-37](image\adduser.png)
+![Ubuntu 64 bit-2020-02-10-10-06-37](image/adduser.png)
